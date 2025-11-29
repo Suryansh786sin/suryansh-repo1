@@ -1,2 +1,3 @@
 # suryansh-repo1
-this is my first git repository
+This is my first Git Repository
+Author - Suryansh Kumar Singh
